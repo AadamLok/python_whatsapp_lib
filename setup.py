@@ -9,18 +9,17 @@ authors = [
         "Email" : "aadamlokhandwala786@gmail.com",
     },
     {
-        "Name" : "Murtaza Cyclewala"
-        "Email" : "murtazacyclewala27@gmail.com"
+        "Name" : "Murtaza Cyclewala",
+        "Email" : "murtazacyclewala27@gmail.com",
     },
     {
-         "Name" : "Krutik Parmar"
-        "Email" : "krutikparmar106@gmail.com"
+        "Name" : "Krutik Parmar" ,
+        "Email" : "krutikparmar106@gmail.com", 
     },
     {
-         "Name" : "Samarth Jain"
-        "Email" : "samarth16022002@gmail.com"
-    }
-    
+        "Name" : "Samarth Jain",
+        "Email" : "samarth16022002@gmail.com",
+    },    
 ]
 
 authors_string = ""
